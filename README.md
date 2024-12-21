@@ -22,6 +22,8 @@ denoising: https://drive.google.com/drive/folders/17y2SpaCeOV_epDGmkCrJ4JWQlTlCS
 
 ### Citation
 If you find this repo useful, please cite:
+
+```shell
 @article{wang2024otlrm,
   title={OTLRM: Orthogonal Learning-based Low-Rank Metric for Multi-Dimensional Inverse Problems},
   author={Wang, Xiangming and Zeng, Haijin and Chen, Jiaoyang and Liu, Sheng and Chen, Yongyong and Chao, Guoqing},
