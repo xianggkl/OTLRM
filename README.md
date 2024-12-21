@@ -9,6 +9,8 @@ Code for AAAI 2025 paper "OTLRM: Orthogonal Learning-based Low-Rank Metric for M
 ### News
 Our work has been accepted by AAAI 2025, codes and results are coming soon.
 
+Our paper and the supplementary materials are released in Arxiv: https://arxiv.org/pdf/2412.11165
+
 The results and codes have been released. More details and instructions will be continuously updated.
 
 ### Datasets
